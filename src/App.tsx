@@ -1,7 +1,12 @@
 import "./App.css";
+import Test from "./Component/test";
 
 function App() {
-  return <>Hello</>;
+  return (
+    <>
+      <Test />
+    </>
+  );
 }
 
 export default App;
