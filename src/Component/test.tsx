@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-import { Fragment, useEffect } from "react";
+import { useEffect } from "react";
 import { useSelector } from "react-redux";
 import { UserInfoThunk } from "../Store/Thunks/UserInfoThunk";
 import { userProps } from "../Types/Test";
